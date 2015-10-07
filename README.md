@@ -2,7 +2,7 @@
 
 |Tabelle|
 |-|
-|Hi|Du|
+|Hi|
 
 Vorgestern habe ich von Yogi die Email erhalten, dass ich mir bis Dienstag Techniken der 3D-Annotation anschauen soll und ihm darüber berichten soll. Eigentlich habe ich mir gedacht, hauptsächlich an der Synchronisation zu arbeiten um Y.js einzuarbeiten. Ich werd mit ihm am Dienstag darüber sprechen.
 
