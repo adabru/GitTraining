@@ -1,6 +1,6 @@
 ### 1.8.2015
 
-|Tabelle|Kapelle
+|Tabelle|Kapelle|
 |---|---
 |Hi|Du
 
