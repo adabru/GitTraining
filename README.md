@@ -1,3 +1,5 @@
+![relative imagepath](pic.jpg)
+
 ### 1.8.2015
 
 |Tabelle|Kapelle|vh
