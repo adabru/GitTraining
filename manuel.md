@@ -2,4 +2,4 @@
 
 |name|age|field|
 |-|-|-|
-|Manuel Wessely|30|computer science|
+|Manuel Wessely (M.W.)|30|computer science|
